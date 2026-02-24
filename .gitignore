@@ -9,9 +9,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data (không commit data raw)
-data/raw/*.csv
-data/processed/*.csv
 
 # OS
 .DS_Store
